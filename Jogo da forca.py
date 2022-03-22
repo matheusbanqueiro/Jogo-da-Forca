@@ -143,7 +143,7 @@ def imprime_mensagem_abertura():
     print ("Boa sorte e descubra!")
 
 def carrega_palavra_secreta():
-    arquivo = open("palavras.txt", "r")
+    arquivo = open("Times de futebol secretos.txt", "r")
     palavras = []
 
     for linha in arquivo:
