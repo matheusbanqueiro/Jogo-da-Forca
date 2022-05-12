@@ -6,10 +6,10 @@
 <br> Porém se caso ganhar aparecerá um troféu com a mensagem "Parabéns, você ganhou!"🏆
 
 Aqui trabalhei:
-+ Funções
++ Funções;
 + Variáveis;
 + Usei a função "def" para melhorar a legibilidade do código;
 + Colocar arquivos dentro do python;
 + Laço/looping;
-+ Entrada/saída de dados;
++ Entrada/saída de dados.
   
